@@ -1,5 +1,5 @@
 # ==========================================================================
-# Script: 04_Marker_Gene_Heatmap_Bulk.R
+# Script: 03_Marker_Gene_Heatmap_Bulk.R
 # Purpose: Visualization of Marker Genes in Bulk RNA-seq
 # ==========================================================================
 
