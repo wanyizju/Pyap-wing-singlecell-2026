@@ -1,5 +1,5 @@
 # ==========================================================================
-# Script: 03_Bulk_vs_PseudoBulk_Correlation.R
+# Script: 02_Bulk_vs_PseudoBulk_Correlation.R
 # Purpose: Correlation between Bulk RNA-seq and Pseudo-bulk from scRNA-seq
 # ==========================================================================
 
