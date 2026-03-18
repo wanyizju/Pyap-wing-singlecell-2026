@@ -1,0 +1,31 @@
+GeneSymbol	GeneID	CellType
+Nub	Pyap08396	Epithelial cell
+Cht2	Pyap06724	Epithelial cell
+Egfr	Pyap12714	Epithelial cell
+Axin	Pyap03169	Epithelial cell
+Trh	Pyap07909	Tracheal cell
+Bs	Pyap05456	Tracheal cell
+Dar1	Pyap13827	Tracheal cell
+Cad89d	Pyap12424	Tracheal cell
+Cyp301a1	Pyap00043	Tracheal cell
+Nt1	Pyap04580	Tracheal cell
+Sb-sbd	Pyap06738	Tracheal cell
+Hdc	Pyap07351	Neuron cell
+Fas1	Pyap05036	Neuron cell
+Para	Pyap11236	Neuron cell
+Cac	Pyap06969	Neuron cell
+Ace	Pyap03892	Neuron cell
+Rdl	Pyap03404	Neuron cell
+Anln	Pyap06418	Neuron cell
+Cycb3	Pyap13879	Neuron cell
+Cdk1	Pyap03925	Neuron cell
+Hgsnat	Pyap09451	Glial cell
+Abcb1a	Pyap10688	Glial cell
+Gusb	Pyap02366	Glial cell
+Spon1	Pyap09670	Glial cell
+LanA	Pyap01953	Hemocyte
+Npc2a	Pyap00067	Hemocyte
+Gcm	Pyap14918	Hemocyte
+Mef2	Pyap01404	Muscle cell
+Mlc2	Pyap09315	Muscle cell
+Sing	Pyap09425	Muscle cell
