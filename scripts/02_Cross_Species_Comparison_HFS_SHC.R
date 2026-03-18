@@ -1,5 +1,5 @@
 # ==========================================================================
-# Script: 02_Cross_Species_Comparison_HFS_SHC.R
+# Script: 01_Cross_Species_Comparison_HFS_SHC.R
 # Project: Wing Polyphenism in Hemipteran Insects
 # Purpose: MetaNeighbor similarity, Harmony integration, and Top 50 Markers
 # Species: Nilaparvata lugens (HFS) and Pyrrhocoris apterus (SHC)
